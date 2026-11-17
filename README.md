@@ -6,20 +6,12 @@ CandyRun é um jogo de labirinto em que você foge de suas rivais, que prenderam
 
 ![Tela Inicial](prints_teste/pt/01_menu.png)
 *Tela inicial.*
-![Em jogo](prints_teste/pt/03_jogando.png)
+![Em jogo](prints_teste/pt/04_poder_fase2.png)
 *Em jogo.*
-![Boba tea](prints_teste/pt/04_poder_fase2.png)
-*Boba tea: as rivais ficam assustadas.*
 ![Exemplo de Poder: Turbo](prints_teste/pt/12_turbo.png)
 *Exemplo de poder: turbo arco-íris.*
-![Exemplo de Poder: Ímã](prints_teste/pt/13_ima.png)
-*Exemplo de poder: ímã de doces.*
 ![Exemplo de Poder: Hipnose](prints_teste/pt/14_hipnose.png)
 *Exemplo de poder: hipnose.*
-![Gaiola aberta](prints_teste/pt/06_gaiola_aberta_fase3.png)
-*A chave abriu a gaiola.*
-![Pet salvo](prints_teste/pt/07_fase_completa1.png)
-*Pet salvo: fim da fase.*
 ![Vitória](prints_teste/pt/10_vitoria.png)
 *Os três pets salvos.*
 Você se pergunta como os doces se espalharam por todos os cantos.
@@ -101,20 +93,12 @@ CandyRun is a maze game in which you run from your rivals, who locked up your pe
 
 ![Title screen](prints_teste/en/01_menu.png)
 *Title screen.*
-![In game](prints_teste/en/03_jogando.png)
+![In game](prints_teste/en/04_poder_fase2.png)
 *In game.*
-![Boba tea](prints_teste/en/04_poder_fase2.png)
-*Boba tea: the rivals get scared.*
 ![Power example: Turbo](prints_teste/en/12_turbo.png)
 *Power example: rainbow turbo.*
-![Power example: Magnet](prints_teste/en/13_ima.png)
-*Power example: candy magnet.*
 ![Power example: Hypnosis](prints_teste/en/14_hipnose.png)
 *Power example: hypnosis.*
-![Open cage](prints_teste/en/06_gaiola_aberta_fase3.png)
-*The key opened the cage.*
-![Pet saved](prints_teste/en/07_fase_completa1.png)
-*Pet saved: level complete.*
 ![Victory](prints_teste/en/10_vitoria.png)
 *All three pets saved.*
 You wonder how the candy ended up scattered everywhere.
