@@ -1,0 +1,19 @@
+
+*.exe
+*.dll
+recorde.txt
+idioma.txt
+assets/sprites/preview_*.png
+assets/sprites/preview_*.gif
+assets/sprites/print_sfml.png
+
+__pycache__/
+*.pyc
+.vscode/
+
+build/
+
+# ferramentas e arquivos de trabalho (nao fazem parte do jogo)
+tools/
+assets/originais/
+src/teste_sprites.cpp
